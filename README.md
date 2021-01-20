@@ -28,7 +28,7 @@ pre requirments :
   
   b. Driver drowsiness detector
    
-  c. shape_predictor_68_face_landmarks
+  c. shape_predictor_68_face_landmarks->Download the shape_predictor_68_face_landmarks.dat from -> https://github.com/davisking/dlib-models .
   
 5.XML DOCUMENTS
 
