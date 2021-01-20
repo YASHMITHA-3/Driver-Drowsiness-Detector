@@ -15,15 +15,25 @@ Flow of the project:-
 Hence could save as many lives as possible!!
 
 pre requirments :
+
 1.WEBCAM
+
 2.PYTHON IDLE (3.X VERSION)
+
 3. PYTHON MODULES: tkinter , os, scipy.spatial , imutils , numpy , pygame ,time,dlib,cv2.
+
 4.FOLDERS:
+
   a. Audio
-   b. Driver drowsiness detector
+  
+  b. Driver drowsiness detector
+   
   c. shape_predictor_68_face_landmarks
+  
 5.XML DOCUMENTS
+
   a. haarcascade_eye  
+  
   b. haarcascade_frontalface_default
   
  How to run: Download the zip file ->extract the files->run the GUI.PY from python ideal.
